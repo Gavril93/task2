@@ -1,0 +1,4 @@
+﻿  task2.cpp
+c:\users\гаврил\source\repos\task2\task2\task2.cpp(18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\гаврил\source\repos\task2\task2\task2.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+  task2.vcxproj -> C:\Users\Гаврил\source\repos\task2\Debug\task2.exe
